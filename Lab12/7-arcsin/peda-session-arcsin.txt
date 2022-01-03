@@ -1,0 +1,19 @@
+break *0x00000000565555b8
+  commands
+    print $st0
+    print $st1
+    print $st2
+  end
+break *0x00000000565555d6
+  commands
+    print $st0
+    print $st1
+    print $st2
+  end
+break *0x00000000565555e0
+  commands
+    print $st0
+    print $st1
+    print $st2
+  end
+

@@ -1,0 +1,6 @@
+break *(for + 1)
+  commands
+    print $al
+    print $ecx
+  end
+
